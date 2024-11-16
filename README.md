@@ -1,23 +1,23 @@
-# Иван Карманов — Junior Java Developer
+# Ivan Karmanov — Junior Java Developer
 
-Добро пожаловать в мой профиль GitHub! Я занимаюсь разработкой программного обеспечения, специализируясь на создании веб-приложений с использованием современных технологий и подходов. Основной фокус моей работы — разработка микросервисной архитектуры и интеграция систем.
-
----
-
-## Основные навыки
-
-- **Языки программирования**: Java (Core, SE, базовые знания EE), C#, Python (базовые знания)
-- **Фреймворки и технологии**: Spring Boot, Spring Data JPA, Spring Security, Spring MVC
-- **Базы данных**: PostgreSQL (предпочтение), MySQL
-- **Микросервисы**: Проектирование, разработка и развертывание в Docker
-- **Интеграция**: RabbitMQ, Redis, Eureka (Server/Client)
-- **Разработка REST API**: Создание и документирование RESTful сервисов
-- **Шаблоны проектирования**: Proxy, Builder, Bridge, Singleton, Chain of Responsibility
-- **Инструменты**: Git, Maven, Elasticsearch
+Welcome to my GitHub profile! I specialize in software development with a focus on building web applications using modern technologies and approaches. My main area of expertise is designing microservice architectures and integrating systems.
 
 ---
 
-## Контакты
+## Key Skills
+
+- **Programming Languages**: Java (Core, SE, basic knowledge of EE), C#, Python (basic knowledge)
+- **Frameworks and Technologies**: Spring Boot, Spring Data JPA, Spring Security, Spring MVC
+- **Databases**: PostgreSQL (preferred), MySQL
+- **Microservices**: Design, development, and deployment with Docker
+- **Integration**: RabbitMQ, Redis, Eureka (Server/Client)
+- **REST API Development**: Building and documenting RESTful services
+- **Design Patterns**: Proxy, Builder, Bridge, Singleton, Chain of Responsibility
+- **Tools**: Git, Maven, Elasticsearch
+
+---
+
+## Contacts
 
 - **Telegram**: [@VE_N_IK](https://t.me/VE_N_IK)  
 - **Email**: [qaswsc@yandex.by](mailto:qaswsc@yandex.by)  
