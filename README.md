@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I specialize in software development with a focus 
 
 ## Key Skills
 
-- **Programming Languages**: Java (Core, SE, basic knowledge of EE), C#, Python (basic knowledge)
+- **Programming Languages**: Java (Core, SE, basic knowledge of EE), C# (basic knowledge), Python (basic knowledge)
 - **Frameworks and Technologies**: Spring Boot, Spring Data JPA, Spring Security, Spring MVC
 - **Databases**: PostgreSQL (preferred), MySQL
 - **Microservices**: Design, development, and deployment with Docker
