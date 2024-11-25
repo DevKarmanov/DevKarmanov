@@ -6,14 +6,17 @@ Welcome to my GitHub profile! I specialize in software development with a focus 
 
 ## Key Skills
 
-- **Programming Languages**: Java (Core, SE, basic knowledge of EE), C# (basic knowledge), Python (basic knowledge)
-- **Frameworks and Technologies**: Spring Boot, Spring Data JPA, Spring Security, Spring MVC
-- **Databases**: PostgreSQL (preferred), MySQL
-- **Microservices**: Design, development, and deployment with Docker
-- **Integration**: RabbitMQ, Redis, Eureka (Server/Client)
-- **REST API Development**: Building and documenting RESTful services
-- **Design Patterns**: Proxy, Builder, Bridge, Singleton, Chain of Responsibility
-- **Tools**: Git, Maven, Elasticsearch
+- **Programming Languages**: Java (Core, SE, basic knowledge of EE), C# (basic knowledge), Python (basic knowledge)  
+- **Frameworks and Libraries**: Spring Core, Spring Boot, Spring Data JPA, Spring Security, Spring MVC  
+- **REST API Development**: Experience in building and documenting RESTful services  
+- **Databases**: PostgreSQL (preferred), MySQL; familiar with SQL transactions  
+- **Tools and Technologies**: Docker, RabbitMQ, Redis, Eureka (Server/Client), Thymeleaf, Lombok, Elasticsearch, UML diagrams  
+- **Version Control**: Basic knowledge of Git  
+- **Data Formats**: JSON, XML  
+- **Build Tools**: Maven (primary), Gradle (basic knowledge)  
+- **Microservices**: Basic development and deployment using Docker  
+- **Design Principles**: Understanding and application of SOLID principles  
+- **Design Patterns**: Proxy (familiar with differences between Cglib and Dynamic Proxy), Builder, Bridge, Singleton, Chain of Responsibility (as seen in Spring Security)  
 
 ---
 
