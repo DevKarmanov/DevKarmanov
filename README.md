@@ -1,6 +1,6 @@
 Ivan Karmanov  
 Java Backend Developer · Belarus  
-devkarmanov@gmail.com · Telegram: @VE_N_IK · github.com/DevKarmanov
+devkarmanov@gmail.com · Telegram: @VE_N_IK
 
 ---
 
